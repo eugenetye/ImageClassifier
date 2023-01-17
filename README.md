@@ -7,3 +7,4 @@ neural network (CNN) to classify them by breed.
 
 This project uses the following dog image dataset:
 * [dog_images.zip](../master/dog_images.zip)
+* The zip file above has to be unzipped into a folder called `images`.
